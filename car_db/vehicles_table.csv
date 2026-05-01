@@ -1,0 +1,501 @@
+vin,make,model,year,color
+VIN000001,BYD,Han,2010,SeaGreen
+VIN000002,Honda,Odyssey,2024,Salmon
+VIN000003,Rolls-Royce,Ghost,2005,Maroon
+VIN000004,Maserati,Quattroporte,2010,Linen
+VIN000005,BYD,Tang,2005,Linen
+VIN000006,Mercedes-Benz,GLE,2004,YellowGreen
+VIN000007,Nissan,Titan,2001,DarkSlateBlue
+VIN000008,Acura,MDX,2021,Tan
+VIN000009,BMW,Z4,2021,Thistle
+VIN000010,Aston Martin,DB11,2003,Linen
+VIN000011,Lincoln,Aviator,2022,WhiteSmoke
+VIN000012,Audi,A4,2019,DarkRed
+VIN000013,Fiat,Doblo,2002,Lavender
+VIN000014,Citroën,C3,2015,PeachPuff
+VIN000015,Geely,Coolray,2022,Aqua
+VIN000016,Nissan,Rogue,2021,DarkSalmon
+VIN000017,Maserati,Quattroporte,2018,Indigo
+VIN000018,Citroën,C4,2012,Wheat
+VIN000019,Bentley,Bentayga,2012,MediumSlateBlue
+VIN000020,Lexus,ES,2014,SkyBlue
+VIN000021,Mini,Countryman,2009,PaleVioletRed
+VIN000022,BMW,3 Series,2003,Moccasin
+VIN000023,Ferrari,488,2007,MediumSeaGreen
+VIN000024,Porsche,911,2018,Cyan
+VIN000025,Tata,Harrier,2013,NavajoWhite
+VIN000026,Volvo,XC60,2018,LightCyan
+VIN000027,Hyundai,Accent,2013,BlanchedAlmond
+VIN000028,Mercedes-Benz,A-Class,2004,MidnightBlue
+VIN000029,Mazda,CX-5,2021,SteelBlue
+VIN000030,BYD,Dolphin,2022,HotPink
+VIN000031,Aston Martin,DB11,2023,Beige
+VIN000032,BMW,5 Series,2006,White
+VIN000033,Mahindra,Thar,2012,WhiteSmoke
+VIN000034,Chery,Tiggo 8,2023,Bisque
+VIN000035,Ford,Escape,2011,LightYellow
+VIN000036,Renault,Talisman,2019,DeepPink
+VIN000037,Genesis,GV80,2016,DarkGoldenRod
+VIN000038,Lamborghini,Huracan,2022,MistyRose
+VIN000039,Great Wall,Wingle 7,2003,DarkOrange
+VIN000040,Tesla,Model Y,2002,CornflowerBlue
+VIN000041,Cadillac,CT5,2012,WhiteSmoke
+VIN000042,Tesla,Model 3,2013,LightSalmon
+VIN000043,Isuzu,D-Max,2008,CadetBlue
+VIN000044,Genesis,GV80,2014,DeepPink
+VIN000045,Suzuki,Swift,2015,Yellow
+VIN000046,Mitsubishi,Eclipse Cross,2011,LimeGreen
+VIN000047,Jaguar,F-PACE,2017,Navy
+VIN000048,GMC,Terrain,2000,Olive
+VIN000049,BMW,X3,2019,ForestGreen
+VIN000050,BMW,Z4,2011,DodgerBlue
+VIN000051,Suzuki,Vitara,2007,OrangeRed
+VIN000052,Ferrari,Portofino,2014,PaleGreen
+VIN000053,GMC,Canyon,2023,Fuchsia
+VIN000054,Dodge,Ram 1500,2005,GoldenRod
+VIN000055,Subaru,Outback,2003,Aquamarine
+VIN000056,Seat,Ateca,2016,OldLace
+VIN000057,Dacia,Logan,2012,SkyBlue
+VIN000058,Jeep,Compass,2008,MintCream
+VIN000059,Chrysler,300,2019,DarkKhaki
+VIN000060,Mazda,MX-5 Miata,2020,Gray
+VIN000061,Mahindra,Scorpio,2015,DodgerBlue
+VIN000062,Cadillac,CT5,2002,SlateBlue
+VIN000063,Chrysler,300,2000,DeepSkyBlue
+VIN000064,Chrysler,Pacifica,2020,Crimson
+VIN000065,Seat,Ateca,2017,GhostWhite
+VIN000066,Acura,RDX,2013,OldLace
+VIN000067,Saab,9-5,2017,DarkSalmon
+VIN000068,Jeep,Cherokee,2010,ForestGreen
+VIN000069,Citroën,C5 Aircross,2004,SpringGreen
+VIN000070,Chrysler,300,2017,Lime
+VIN000071,Buick,Enclave,2022,DarkCyan
+VIN000072,Genesis,GV80,2016,White
+VIN000073,Chery,Tiggo 8,2019,DarkGoldenRod
+VIN000074,Buick,Enclave,2002,Azure
+VIN000075,Audi,Q7,2003,LightGoldenRodYellow
+VIN000076,Alfa Romeo,Giulia,2011,Silver
+VIN000077,Saab,9-3,2002,Bisque
+VIN000078,Kia,Sportage,2009,DarkBlue
+VIN000079,Jeep,Renegade,2003,Linen
+VIN000080,Chevrolet,Silverado,2007,Lavender
+VIN000081,Lamborghini,Urus,2018,DarkBlue
+VIN000082,Mazda,CX-5,2002,Crimson
+VIN000083,Lincoln,Corsair,2010,Silver
+VIN000084,Chrysler,Pacifica,2008,Purple
+VIN000085,Lincoln,Aviator,2014,Azure
+VIN000086,GMC,Terrain,2018,Silver
+VIN000087,Porsche,Panamera,2007,SandyBrown
+VIN000088,Ford,F-150,2012,Ivory
+VIN000089,Chrysler,Pacifica,2004,Lavender
+VIN000090,Subaru,Legacy,2010,LightSlateGray
+VIN000091,Skoda,Octavia,2022,Coral
+VIN000092,Ferrari,Portofino,2020,Gold
+VIN000093,Honda,Accord,2022,Salmon
+VIN000094,Lexus,IS,2019,DeepPink
+VIN000095,Seat,Ateca,2009,DarkSalmon
+VIN000096,Volkswagen,Passat,2019,DodgerBlue
+VIN000097,Renault,Megane,2017,HotPink
+VIN000098,Skoda,Octavia,2007,Lime
+VIN000099,Ford,Explorer,2000,SlateGray
+VIN000100,Porsche,Taycan,2010,Snow
+VIN000101,Buick,Encore,2016,SpringGreen
+VIN000102,Mazda,CX-5,2000,PeachPuff
+VIN000103,Jaguar,F-Type,2015,OliveDrab
+VIN000104,BMW,Z4,2008,PaleGreen
+VIN000105,Mercedes-Benz,GLE,2000,Yellow
+VIN000106,Lincoln,Navigator,2023,LightPink
+VIN000107,Skoda,Superb,2015,MediumSeaGreen
+VIN000108,Nissan,Titan,2005,Chocolate
+VIN000109,Subaru,Legacy,2001,MediumPurple
+VIN000110,Infiniti,QX80,2001,LightSkyBlue
+VIN000111,Dodge,Challenger,2015,LightSeaGreen
+VIN000112,Mercedes-Benz,E-Class,2002,Azure
+VIN000113,Acura,ILX,2015,GhostWhite
+VIN000114,Fiat,Panda,2016,DeepPink
+VIN000115,Mitsubishi,Eclipse Cross,2013,HoneyDew
+VIN000116,Saab,9-3,2004,LightGreen
+VIN000117,Maserati,Levante,2018,Salmon
+VIN000118,Tata,Harrier,2001,HotPink
+VIN000119,Toyota,Camry,2012,LightSalmon
+VIN000120,Great Wall,Wingle 7,2006,FloralWhite
+VIN000121,Saab,9-3,2008,OrangeRed
+VIN000122,Chevrolet,Equinox,2022,PeachPuff
+VIN000123,Dodge,Ram 1500,2011,CornflowerBlue
+VIN000124,Perodua,Myvi,2019,Orchid
+VIN000125,Fiat,Tipo,2022,Teal
+VIN000126,Volvo,XC40,2006,SpringGreen
+VIN000127,Renault,Captur,2006,NavajoWhite
+VIN000128,Mazda,MX-5 Miata,2016,Brown
+VIN000129,Great Wall,Wingle 7,2000,DeepPink
+VIN000130,Buick,Enclave,2004,Lime
+VIN000131,Mazda,Mazda3,2003,YellowGreen
+VIN000132,Mini,Clubman,2008,Black
+VIN000133,Volkswagen,ID.4,2016,SaddleBrown
+VIN000134,Kia,Sportage,2001,Red
+VIN000135,Subaru,Outback,2002,Indigo
+VIN000136,Volvo,S60,2010,LightGoldenRodYellow
+VIN000137,Great Wall,Wingle 7,2022,Beige
+VIN000138,Maserati,Ghibli,2015,LightSkyBlue
+VIN000139,Ferrari,Roma,2002,MediumPurple
+VIN000140,Volvo,XC40,2021,Tomato
+VIN000141,Nissan,Pathfinder,2012,Snow
+VIN000142,Maserati,Ghibli,2022,SkyBlue
+VIN000143,Fiat,Doblo,2013,DarkViolet
+VIN000144,Isuzu,D-Max,2011,Maroon
+VIN000145,Rolls-Royce,Cullinan,2007,DarkGoldenRod
+VIN000146,Chery,Tiggo 7,2005,DarkSlateBlue
+VIN000147,Ford,Explorer,2005,MidnightBlue
+VIN000148,Isuzu,MU-X,2014,Orange
+VIN000149,Acura,TLX,2020,Chocolate
+VIN000150,Bentley,Bentayga,2016,MistyRose
+VIN000151,Dodge,Ram 1500,2013,DarkMagenta
+VIN000152,Mini,Countryman,2024,MintCream
+VIN000153,Dodge,Ram 1500,2015,MintCream
+VIN000154,Mini,Clubman,2024,MediumVioletRed
+VIN000155,Chrysler,Pacifica,2002,Red
+VIN000156,Alfa Romeo,Giulia,2015,OldLace
+VIN000157,Mazda,Mazda6,2011,DarkSlateGray
+VIN000158,Kia,Rio,2004,DarkTurquoise
+VIN000159,Buick,Enclave,2005,BlueViolet
+VIN000160,Maserati,Ghibli,2005,DarkSlateBlue
+VIN000161,Maserati,Quattroporte,2007,PapayaWhip
+VIN000162,Rolls-Royce,Phantom,2009,LightGreen
+VIN000163,Mazda,MX-5 Miata,2014,DarkOliveGreen
+VIN000164,Seat,Ateca,2016,Aquamarine
+VIN000165,Infiniti,QX80,2016,Maroon
+VIN000166,Volkswagen,Passat,2000,LightCyan
+VIN000167,Skoda,Superb,2004,AntiqueWhite
+VIN000168,BYD,Dolphin,2012,Azure
+VIN000169,Renault,Megane,2003,WhiteSmoke
+VIN000170,Citroën,C3,2018,Beige
+VIN000171,Seat,Ibiza,2020,Green
+VIN000172,Seat,Ateca,2001,Gray
+VIN000173,Saab,9-5,2006,GreenYellow
+VIN000174,Infiniti,Q50,2012,SkyBlue
+VIN000175,Geely,Azkarra,2017,PaleGreen
+VIN000176,Peugeot,308,2013,Chocolate
+VIN000177,Rolls-Royce,Cullinan,2009,YellowGreen
+VIN000178,Buick,Enclave,2014,Cornsilk
+VIN000179,Aston Martin,DB11,2007,Aquamarine
+VIN000180,Fiat,Doblo,2019,CadetBlue
+VIN000181,Peugeot,308,2002,Tan
+VIN000182,Buick,Regal,2001,DarkGoldenRod
+VIN000183,Proton,X70,2004,DarkBlue
+VIN000184,Audi,Q3,2023,Orchid
+VIN000185,Tesla,Cybertruck,2016,DarkGreen
+VIN000186,Nissan,Sentra,2003,DodgerBlue
+VIN000187,Infiniti,QX60,2000,Linen
+VIN000188,Dacia,Logan,2003,Orange
+VIN000189,Porsche,Cayenne,2008,Moccasin
+VIN000190,Tata,Nexon,2005,LightSalmon
+VIN000191,Mini,Cooper,2017,DarkGray
+VIN000192,Perodua,Axia,2016,MediumSpringGreen
+VIN000193,Lincoln,Corsair,2019,White
+VIN000194,Buick,Regal,2020,DarkMagenta
+VIN000195,Ford,Escape,2006,DodgerBlue
+VIN000196,Isuzu,D-Max,2001,DarkOrchid
+VIN000197,Porsche,Cayenne,2015,DarkKhaki
+VIN000198,Saab,9-3,2017,MidnightBlue
+VIN000199,Chery,Tiggo 7,2006,Turquoise
+VIN000200,Ford,F-150,2022,LightGoldenRodYellow
+VIN000201,Volkswagen,Golf,2016,Navy
+VIN000202,Fiat,Panda,2001,OliveDrab
+VIN000203,Alfa Romeo,Stelvio,2019,Lavender
+VIN000204,BMW,5 Series,2010,Gold
+VIN000205,Cadillac,CT5,2006,DarkRed
+VIN000206,Jaguar,F-Type,2013,IndianRed
+VIN000207,Buick,Encore,2013,DarkMagenta
+VIN000208,Nissan,Pathfinder,2008,PaleGoldenRod
+VIN000209,Toyota,Highlander,2015,Cyan
+VIN000210,GMC,Terrain,2024,Cyan
+VIN000211,Tesla,Cybertruck,2008,PaleTurquoise
+VIN000212,Jeep,Compass,2006,Aqua
+VIN000213,Saab,9-3,2006,Gainsboro
+VIN000214,Skoda,Karoq,2012,Bisque
+VIN000215,Seat,Tarraco,2012,Linen
+VIN000216,Buick,Regal,2010,MediumSlateBlue
+VIN000217,Geely,Emgrand,2011,Thistle
+VIN000218,Bentley,Flying Spur,2012,LightSeaGreen
+VIN000219,Citroën,C5 Aircross,2014,HotPink
+VIN000220,Mercedes-Benz,C-Class,2010,MediumTurquoise
+VIN000221,Alfa Romeo,Stelvio,2001,Lavender
+VIN000222,Ferrari,488,2019,Orchid
+VIN000223,Toyota,Tacoma,2024,DarkOrange
+VIN000224,Ferrari,Portofino,2004,SlateBlue
+VIN000225,Acura,TLX,2016,DarkSeaGreen
+VIN000226,Volkswagen,Touareg,2007,DarkGoldenRod
+VIN000227,Fiat,Panda,2008,IndianRed
+VIN000228,Tesla,Model X,2018,Thistle
+VIN000229,Alfa Romeo,Tonale,2018,Coral
+VIN000230,Volvo,S90,2000,SeaGreen
+VIN000231,Peugeot,508,2014,Chocolate
+VIN000232,Mahindra,Thar,2017,Aquamarine
+VIN000233,Buick,Enclave,2000,SeaShell
+VIN000234,Genesis,GV70,2004,SteelBlue
+VIN000235,Tata,Harrier,2024,RoyalBlue
+VIN000236,Mazda,Mazda3,2013,White
+VIN000237,Tata,Safari,2003,Wheat
+VIN000238,Fiat,Panda,2021,GreenYellow
+VIN000239,Mazda,CX-9,2004,HotPink
+VIN000240,Suzuki,Vitara,2010,LightBlue
+VIN000241,Volvo,S60,2000,Turquoise
+VIN000242,Subaru,Legacy,2018,Beige
+VIN000243,Chery,Tiggo 7,2012,Silver
+VIN000244,Buick,Enclave,2012,MediumSpringGreen
+VIN000245,Land Rover,Evoque,2016,Lavender
+VIN000246,Porsche,Cayenne,2012,LightSalmon
+VIN000247,Mazda,CX-5,2007,DarkMagenta
+VIN000248,Suzuki,Swift,2004,LightGreen
+VIN000249,Cadillac,Lyriq,2002,Gainsboro
+VIN000250,Aston Martin,DBX,2022,Lavender
+VIN000251,BYD,Han,2020,Turquoise
+VIN000252,Bentley,Continental,2000,LightGray
+VIN000253,Acura,RDX,2018,MediumPurple
+VIN000254,Peugeot,5008,2007,Tan
+VIN000255,Peugeot,208,2010,Aquamarine
+VIN000256,Perodua,Ativa,2006,Linen
+VIN000257,Nissan,Sentra,2021,SeaGreen
+VIN000258,Infiniti,QX80,2011,LemonChiffon
+VIN000259,Rolls-Royce,Cullinan,2023,SlateGray
+VIN000260,Fiat,500,2009,CadetBlue
+VIN000261,Great Wall,Wingle 7,2006,Tomato
+VIN000262,Mazda,Mazda6,2003,Gainsboro
+VIN000263,Genesis,G70,2024,Chartreuse
+VIN000264,Hyundai,Santa Fe,2014,Navy
+VIN000265,Ford,Edge,2022,Chocolate
+VIN000266,Chevrolet,Tahoe,2022,PowderBlue
+VIN000267,Aston Martin,Vantage,2012,SandyBrown
+VIN000268,Porsche,Panamera,2017,SteelBlue
+VIN000269,Great Wall,Haval H6,2000,White
+VIN000270,Volvo,S60,2023,PaleTurquoise
+VIN000271,Tata,Safari,2015,SkyBlue
+VIN000272,Ford,Edge,2006,DimGray
+VIN000273,Suzuki,Swift,2024,DarkSlateGray
+VIN000274,Maserati,Quattroporte,2020,Green
+VIN000275,Jaguar,E-PACE,2023,Green
+VIN000276,Mitsubishi,Pajero,2005,Plum
+VIN000277,Saab,9-3,2021,OliveDrab
+VIN000278,Buick,Enclave,2008,Navy
+VIN000279,Lexus,IS,2018,MediumSlateBlue
+VIN000280,Genesis,GV70,2014,LightGray
+VIN000281,Honda,CR-V,2019,LightYellow
+VIN000282,Jaguar,XF,2001,Aquamarine
+VIN000283,Jaguar,XE,2022,DarkRed
+VIN000284,Rolls-Royce,Phantom,2005,Tomato
+VIN000285,Tesla,Cybertruck,2020,SkyBlue
+VIN000286,BYD,Dolphin,2007,Khaki
+VIN000287,Kia,Telluride,2015,Moccasin
+VIN000288,Skoda,Kodiaq,2008,CornflowerBlue
+VIN000289,Land Rover,Defender,2002,HotPink
+VIN000290,Perodua,Axia,2021,DarkSeaGreen
+VIN000291,Audi,Q7,2024,Cyan
+VIN000292,Mitsubishi,Pajero,2001,LightSlateGray
+VIN000293,Acura,MDX,2005,Cornsilk
+VIN000294,Proton,X70,2022,Ivory
+VIN000295,Genesis,GV70,2006,LightCoral
+VIN000296,Volkswagen,Touareg,2024,BlanchedAlmond
+VIN000297,Lincoln,Navigator,2009,Red
+VIN000298,Ferrari,Portofino,2024,DarkOrange
+VIN000299,Jaguar,F-PACE,2016,Orchid
+VIN000300,Lamborghini,Huracan,2009,Sienna
+VIN000301,BMW,Z4,2009,MediumOrchid
+VIN000302,Mahindra,Thar,2012,Aqua
+VIN000303,Jaguar,F-Type,2011,PaleTurquoise
+VIN000304,Jeep,Wrangler,2012,Bisque
+VIN000305,Dacia,Logan,2003,SaddleBrown
+VIN000306,Subaru,Forester,2014,PaleGreen
+VIN000307,Lexus,GX,2003,Plum
+VIN000308,Subaru,Forester,2001,Indigo
+VIN000309,Chery,Tiggo 8,2024,Plum
+VIN000310,Genesis,G70,2024,Orchid
+VIN000311,Great Wall,Haval H6,2005,SeaGreen
+VIN000312,Volvo,S60,2020,CornflowerBlue
+VIN000313,Cadillac,Escalade,2000,LightYellow
+VIN000314,Toyota,Land Cruiser,2018,MediumTurquoise
+VIN000315,Lamborghini,Aventador,2013,WhiteSmoke
+VIN000316,GMC,Sierra,2002,DeepSkyBlue
+VIN000317,Mitsubishi,Outlander,2020,MintCream
+VIN000318,Citroën,C4,2012,Snow
+VIN000319,Mini,Clubman,2002,LightSeaGreen
+VIN000320,Jaguar,E-PACE,2011,SkyBlue
+VIN000321,Nissan,Rogue,2016,Aquamarine
+VIN000322,Suzuki,Jimny,2007,LightYellow
+VIN000323,GMC,Sierra,2010,MediumSeaGreen
+VIN000324,Genesis,G80,2005,PaleGreen
+VIN000325,Proton,Saga,2003,Green
+VIN000326,Mitsubishi,Outlander,2021,Aquamarine
+VIN000327,Lamborghini,Huracan,2017,LightBlue
+VIN000328,Mitsubishi,Pajero,2022,Plum
+VIN000329,Land Rover,Discovery,2007,IndianRed
+VIN000330,Mitsubishi,Eclipse Cross,2021,MediumPurple
+VIN000331,Tata,Safari,2016,Moccasin
+VIN000332,Nissan,Sentra,2019,DarkSalmon
+VIN000333,Great Wall,Wingle 7,2019,SandyBrown
+VIN000334,Infiniti,QX60,2020,Plum
+VIN000335,Mitsubishi,Outlander,2011,HoneyDew
+VIN000336,Mitsubishi,Outlander,2007,Brown
+VIN000337,Land Rover,Evoque,2011,SeaGreen
+VIN000338,Rolls-Royce,Phantom,2000,DarkSlateBlue
+VIN000339,Kia,K5,2017,SteelBlue
+VIN000340,Geely,Coolray,2015,Cyan
+VIN000341,Porsche,911,2006,Gainsboro
+VIN000342,Volkswagen,Jetta,2023,LightSeaGreen
+VIN000343,Isuzu,MU-X,2003,Maroon
+VIN000344,Volvo,XC60,2021,DarkRed
+VIN000345,Mitsubishi,Eclipse Cross,2014,Ivory
+VIN000346,Jaguar,E-PACE,2022,MistyRose
+VIN000347,Dacia,Duster,2013,Turquoise
+VIN000348,Genesis,GV80,2012,MediumSlateBlue
+VIN000349,Mazda,CX-9,2020,SpringGreen
+VIN000350,Cadillac,CT5,2011,DarkSlateBlue
+VIN000351,Jeep,Renegade,2006,DarkSeaGreen
+VIN000352,Citroën,C4,2013,Coral
+VIN000353,Peugeot,308,2024,Maroon
+VIN000354,Infiniti,QX50,2011,Violet
+VIN000355,Dacia,Logan,2015,Violet
+VIN000356,Ferrari,488,2024,SaddleBrown
+VIN000357,Genesis,GV80,2012,SandyBrown
+VIN000358,Genesis,G70,2015,MediumAquaMarine
+VIN000359,Mitsubishi,Outlander,2022,MediumOrchid
+VIN000360,Dodge,Ram 1500,2005,Gray
+VIN000361,Fiat,Doblo,2023,DarkGreen
+VIN000362,BYD,Song,2003,DarkOliveGreen
+VIN000363,Lexus,IS,2016,DarkGray
+VIN000364,Porsche,Macan,2009,DarkRed
+VIN000365,Subaru,Crosstrek,2000,Olive
+VIN000366,Infiniti,Q50,2006,DarkOrchid
+VIN000367,Ferrari,Portofino,2008,Tomato
+VIN000368,Suzuki,Vitara,2014,DarkOrchid
+VIN000369,Hyundai,Accent,2008,CadetBlue
+VIN000370,Chrysler,Pacifica,2006,LavenderBlush
+VIN000371,Seat,Ateca,2021,LightGray
+VIN000372,BYD,Han,2019,MediumTurquoise
+VIN000373,Dacia,Duster,2002,BlueViolet
+VIN000374,Subaru,Forester,2002,White
+VIN000375,Lincoln,Corsair,2022,Gray
+VIN000376,Bentley,Continental,2021,Plum
+VIN000377,Fiat,Doblo,2004,PowderBlue
+VIN000378,Ford,F-150,2017,PaleGreen
+VIN000379,Mazda,CX-5,2024,Crimson
+VIN000380,Alfa Romeo,Giulia,2015,MintCream
+VIN000381,Lamborghini,Aventador,2001,LightPink
+VIN000382,Jeep,Renegade,2022,DarkKhaki
+VIN000383,Chevrolet,Tahoe,2023,SpringGreen
+VIN000384,Lamborghini,Huracan,2010,MediumSpringGreen
+VIN000385,Seat,Tarraco,2020,Lime
+VIN000386,Mazda,CX-9,2005,Salmon
+VIN000387,Cadillac,Lyriq,2021,BlueViolet
+VIN000388,Nissan,Murano,2005,NavajoWhite
+VIN000389,Infiniti,Q60,2005,Maroon
+VIN000390,GMC,Sierra,2007,Violet
+VIN000391,Suzuki,Vitara,2022,Green
+VIN000392,Genesis,GV70,2009,ForestGreen
+VIN000393,Mahindra,XUV700,2015,CornflowerBlue
+VIN000394,Fiat,Tipo,2017,Silver
+VIN000395,Great Wall,Wingle 7,2016,LimeGreen
+VIN000396,Kia,K5,2004,HotPink
+VIN000397,Renault,Kadjar,2000,BurlyWood
+VIN000398,Porsche,Panamera,2004,MediumAquaMarine
+VIN000399,Peugeot,208,2014,AntiqueWhite
+VIN000400,Nissan,Altima,2010,LawnGreen
+VIN000401,Mahindra,Thar,2009,MediumTurquoise
+VIN000402,Renault,Talisman,2001,Bisque
+VIN000403,Genesis,G70,2000,RosyBrown
+VIN000404,Alfa Romeo,Tonale,2011,Brown
+VIN000405,Buick,Enclave,2009,DarkSlateBlue
+VIN000406,Land Rover,Range Rover,2004,Pink
+VIN000407,Isuzu,MU-X,2010,SpringGreen
+VIN000408,Dodge,Charger,2008,DarkMagenta
+VIN000409,Geely,Coolray,2014,MediumSpringGreen
+VIN000410,Ford,Explorer,2016,AntiqueWhite
+VIN000411,Volkswagen,Tiguan,2009,Blue
+VIN000412,Infiniti,QX50,2021,White
+VIN000413,Porsche,Cayenne,2002,SpringGreen
+VIN000414,Lamborghini,Urus,2011,PaleTurquoise
+VIN000415,Seat,Leon,2019,Black
+VIN000416,BYD,Song,2006,LightYellow
+VIN000417,Alfa Romeo,Tonale,2001,Navy
+VIN000418,Jeep,Grand Cherokee,2002,LightSkyBlue
+VIN000419,Citroën,C5 Aircross,2001,DimGray
+VIN000420,Rolls-Royce,Phantom,2020,DarkGreen
+VIN000421,Kia,Sportage,2001,Purple
+VIN000422,Citroën,C4,2000,Orchid
+VIN000423,Lincoln,Aviator,2005,Violet
+VIN000424,Isuzu,MU-X,2008,SeaGreen
+VIN000425,BYD,Han,2002,SeaShell
+VIN000426,Dodge,Ram 1500,2024,Aqua
+VIN000427,Lamborghini,Huracan,2005,Gainsboro
+VIN000428,Infiniti,QX80,2019,Pink
+VIN000429,Maserati,Levante,2020,LightGray
+VIN000430,Perodua,Ativa,2017,DeepSkyBlue
+VIN000431,Rolls-Royce,Phantom,2003,DarkCyan
+VIN000432,Audi,A6,2020,Thistle
+VIN000433,Mini,Cooper,2002,LightGreen
+VIN000434,Fiat,Doblo,2001,Pink
+VIN000435,Jeep,Grand Cherokee,2019,DarkSalmon
+VIN000436,Chrysler,300,2009,Tomato
+VIN000437,Suzuki,Baleno,2009,Salmon
+VIN000438,Seat,Ateca,2018,Tomato
+VIN000439,Perodua,Ativa,2022,Tan
+VIN000440,Jeep,Cherokee,2019,WhiteSmoke
+VIN000441,Proton,X70,2001,MediumAquaMarine
+VIN000442,Volkswagen,Jetta,2017,Indigo
+VIN000443,Hyundai,Elantra,2002,FireBrick
+VIN000444,Subaru,Forester,2016,Peru
+VIN000445,Isuzu,MU-X,2013,LawnGreen
+VIN000446,Jaguar,F-Type,2023,Khaki
+VIN000447,Lamborghini,Urus,2002,DarkMagenta
+VIN000448,Chrysler,Pacifica,2017,CadetBlue
+VIN000449,BMW,5 Series,2002,DarkCyan
+VIN000450,Saab,9-3,2023,MediumOrchid
+VIN000451,Buick,Enclave,2015,LightPink
+VIN000452,Infiniti,Q50,2008,Indigo
+VIN000453,Acura,MDX,2002,Coral
+VIN000454,Jaguar,E-PACE,2010,Bisque
+VIN000455,Seat,Tarraco,2007,DarkBlue
+VIN000456,Porsche,Panamera,2006,MidnightBlue
+VIN000457,Ford,Mustang,2014,DarkCyan
+VIN000458,Audi,A6,2017,Tan
+VIN000459,Volkswagen,Jetta,2017,PaleVioletRed
+VIN000460,Dodge,Durango,2010,SaddleBrown
+VIN000461,Honda,Odyssey,2003,LightGreen
+VIN000462,Mazda,CX-5,2020,MediumSpringGreen
+VIN000463,Proton,X70,2007,PaleTurquoise
+VIN000464,Dacia,Logan,2015,LightSlateGray
+VIN000465,Honda,Pilot,2012,HoneyDew
+VIN000466,Subaru,Crosstrek,2012,Purple
+VIN000467,Citroën,C3,2021,LightSeaGreen
+VIN000468,Honda,CR-V,2009,SkyBlue
+VIN000469,Maserati,Levante,2020,LightSkyBlue
+VIN000470,Maserati,Ghibli,2011,MediumTurquoise
+VIN000471,Nissan,Sentra,2005,DarkKhaki
+VIN000472,Volvo,XC40,2007,IndianRed
+VIN000473,Kia,Sorento,2010,DimGray
+VIN000474,BYD,Tang,2022,Gainsboro
+VIN000475,Dodge,Ram 1500,2006,DarkTurquoise
+VIN000476,Mitsubishi,Eclipse Cross,2017,IndianRed
+VIN000477,Jeep,Grand Cherokee,2011,DarkSeaGreen
+VIN000478,Mitsubishi,Pajero,2014,SkyBlue
+VIN000479,Acura,RDX,2014,GreenYellow
+VIN000480,Mini,Countryman,2013,OliveDrab
+VIN000481,Mitsubishi,Pajero,2005,LightPink
+VIN000482,BMW,X5,2009,Red
+VIN000483,BYD,Dolphin,2003,Magenta
+VIN000484,Great Wall,Wingle 7,2003,MediumPurple
+VIN000485,Aston Martin,DBX,2011,Aquamarine
+VIN000486,Rolls-Royce,Phantom,2007,HoneyDew
+VIN000487,Lexus,ES,2011,PapayaWhip
+VIN000488,Ford,Mustang,2013,GhostWhite
+VIN000489,Porsche,Taycan,2022,GoldenRod
+VIN000490,Genesis,G80,2010,Olive
+VIN000491,Isuzu,D-Max,2001,Tomato
+VIN000492,Perodua,Ativa,2000,Silver
+VIN000493,Ferrari,Roma,2010,Linen
+VIN000494,Suzuki,Jimny,2002,Indigo
+VIN000495,Alfa Romeo,Giulia,2007,PaleGreen
+VIN000496,Genesis,GV70,2000,FloralWhite
+VIN000497,Tesla,Cybertruck,2018,ForestGreen
+VIN000498,Fiat,Panda,2006,DarkGreen
+VIN000499,Hyundai,Sonata,2024,Beige
+VIN000500,Ferrari,Portofino,2015,Maroon

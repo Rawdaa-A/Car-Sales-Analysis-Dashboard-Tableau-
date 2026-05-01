@@ -13,7 +13,7 @@ The dashboard transforms raw relational data into clear visual stories focusing 
 ---
 
 ## 📁 Datasets Used
-- transactions_table.csv – Sales transactions data  
+- transactions_table.csv– Sales transactions data  
 - customers_table.csv – Customer demographics  
 - vehicles_table.csv – Vehicle details (Make, Model, Price, Color)  
 - dealerships_table.csv – Dealership locations  
@@ -37,14 +37,14 @@ The dashboard transforms raw relational data into clear visual stories focusing 
 ---
 
 ## 🛠️ Tech Stack
-- PostgreSQL / MySQL (Aiven)
+-  MySQL 
 - Tableau Desktop
 - Data Modeling (Relationships)
 
 ---
 
 ## 📦 Project File
-- `Car_Sales_Dashboard.twbx` (Includes dashboard + data)
+- `cars_sales_Dashboard.twbx`
 
 ---
 

@@ -60,7 +60,3 @@ The dashboard transforms raw relational data into clear visual stories focusing 
 - Integrate real-time data  
 - Enhance UI/UX  
 
----
-
-## 👩‍💻 Author
-Rawda Abd El Ghaffar

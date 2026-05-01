@@ -7,7 +7,7 @@ The dashboard transforms raw relational data into clear visual stories focusing 
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard]<img width="1400" height="836" alt="dashboard" src="https://github.com/user-attachments/assets/783fd15c-01af-480c-9ac5-54a2ac39710b" />
+ <img width="1400" height="836" alt="dashboard" src="https://github.com/user-attachments/assets/783fd15c-01af-480c-9ac5-54a2ac39710b" />
 
 
 ---
